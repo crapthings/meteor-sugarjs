@@ -2,6 +2,6 @@
 
 work with meteorjs
 
-official github https://github.com/timrwood/moment/
+official github https://github.com/andrewplummer/sugar
 
-official website & document http://momentjs.com/
+official website & document http://sugarjs.com
