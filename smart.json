@@ -3,6 +3,6 @@
   "description": "Sugar is a Javascript library that extends native objects with helpful methods. It is designed to be intuitive, unobtrusive, and let you do more with less code.",
   "homepage": "https://github.com/crapthings/meteor-sugarjs",
   "author": "Andrew Plummer",
-  "version": "1.4.0",
+  "version": "1.4.0.1",
   "git": "https://github.com/crapthings/meteor-sugarjs.git"
 }

@@ -4,5 +4,5 @@ Package.describe({
 
 Package.on_use(function(api, where) {
   where = where || ['client', 'server']
-  api.add_files(['sugar.js'], where);
+  api.add_files(['sugar-full.min.js'], where);
 });
